@@ -1,0 +1,31 @@
+body{
+
+	text-align: center;
+	 font-family: 'Raleway', sans-serif;
+}
+#myNumber{
+	width: 70px;
+}	
+button {
+
+border: 0px black solid ;
+padding:3px;
+}
+
+#button1 {
+	background-color:;
+	font-family:'Raleway', sans-serif;
+}
+
+#Answer{
+
+	transition-duration: 0.5s;
+	transition-timing-function: square;
+}
+
+#Answer:hover{
+	font-size: 45px;
+	position: relative;
+	margin:15px;
+
+}
